@@ -1,114 +1,89 @@
-<h1 align="center">Hi, I'm Rayyan 👋</h1>
+## Hi, I'm Rayyan 👋
 
-🎓 **Computer Science @ Université de Montréal**  
-🧠 **Full-Stack & AI Engineer — Multi-Agent Systems, RAG, Mobile Dev**  
-🚀 Passionate about building production-grade AI systems and modern apps  
-🏆 Hackathons: PolyFinances, Santé Numérique (3rd place), Mil’HaQ Quantum AI  
-🌐 Portfolio: **https://www.rayyan-oumlil.me**
+<b>Computer Science student @ Université de Montréal</b> — Full-Stack Developer & AI Engineer  
+<br>Building multi-agent systems, RAG pipelines, and production-grade apps.</br>
+Passionate about hackathons — PolyFinances (Finalist), Santé Numérique (3rd Place), Mil’HaQ Quantum AI.
 
----
-
-## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-oumlil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.rayyan-oumlil.me)
-[![Email](https://img.shields.io/badge/Email-FF5733?logo=gmail&logoColor=white)](mailto:rayyan.oumlil@umontreal.ca)
+🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-oumlil) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://www.rayyan-oumlil.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyan.oumlil@umontreal.ca)
 
 ---
 
-# 🧠 Tech Stack
+## 💻 Tech Stack
 
-## 🤖 AI / Machine Learning / Agents
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-121212?logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+#### 🧠 AI / Machine Learning / Agents / Data
 
-## 🧱 Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-2E77FF?logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-
-## 🛠️ Backend & Frontend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-
-## ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2E77FF?style=for-the-badge)
 
 ---
 
-# 🚀 Featured Projects
+#### 🗄️ Databases & Cloud
 
-### 🟧 **CustoFlow — Multi-Agent Customer Support System**
-Production-ready multi-agent system using **Google ADK, Gemini 2.5, FastAPI, Next.js, Supabase**.  
-Automates **80%+** customer queries with A2A communication, FAISS search, and 140+ tests.  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+#### 🌐 Backend & Frontend / Dev Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+🔸 **CustoFlow — Multi-Agent Customer Support System**  
+Production-ready multi-agent architecture using Google ADK, Gemini 2.5, FastAPI, Next.js, Supabase.  
 🔗 https://github.com/Rayyan-Oumlil/CustoFlow
 
----
-
-### 🟦 **ReguAI — Regulatory Intelligence Assistant**
-FAISS + LegalBERT retrieval pipeline, Textract/Comprehend extraction, Streamlit dashboard.  
-Analyzes 500+ S&P 500 firms across global regulations.  
+🔸 **ReguAI — Regulatory Intelligence Assistant**  
+FAISS + LegalBERT RAG pipeline, Textract/Comprehend, Streamlit dashboard.  
 🔗 https://github.com/Rayyan-Oumlil/ReguAI
 
----
-
-### 🟩 **BuyBuddy — AI Shopping Assistant**
-Multi-agent LangGraph workflow: query parsing, research, price comparison, recommendations.  
-FastAPI backend, React/Vite frontend, multiple LLM providers.  
+🔸 **BuyBuddy — AI-Powered Shopping Agent**  
+LangGraph workflow, Serper search, multi-LLM support, FastAPI + modern React.  
 🔗 https://github.com/Rayyan-Oumlil/BuyBuddy
 
----
+🔸 **RoutIA — Full-Stack Mobile Internship**  
+Flutter logistics platform with real-time chat, Stripe, FCM notifications, Sentry monitoring.
 
-### 🟨 **RoutIA — Flutter Logistics Platform (Internship)**
-Authentication, routing, Supabase Realtime chat, Stripe, FCM notifications, Sentry monitoring.  
-Built under **Adven Consulting** as a full-stack mobile developer intern.
-
----
-
-### 🟪 **Emotion Detection System**
-Real-time CNN emotion recognition using PyTorch + OpenCV (FER2013).  
+🔸 **Emotion Detection System**  
+CNN + OpenCV real-time emotion recognition.  
 🔗 https://github.com/Rayyan-Oumlil/EmotionDetectionSystem
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-
-![Rayyan's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Rayyan-Oumlil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rayyan-Oumlil&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
----
-
-# 🏅 Certifications
-- NVIDIA Certified — Generative AI LLMs  
-- Oracle OCI Architect Associate  
-- Oracle Generative AI Professional  
-- IBM Full Stack Software Developer  
-- Microsoft Azure Fundamentals (AZ-900)
+![](https://github-readme-stats.vercel.app/api?username=Rayyan-Oumlil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rayyan-Oumlil&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Oumlil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
