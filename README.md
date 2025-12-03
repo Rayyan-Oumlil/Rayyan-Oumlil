@@ -94,10 +94,12 @@ Real-time CNN emotion recognition using PyTorch + OpenCV (FER2013).
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rayyan-Oumlil&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Oumlil&layout=compact&theme=tokyonight&hide_border=true)
+![Rayyan's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Rayyan-Oumlil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rayyan-Oumlil&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
@@ -107,11 +109,6 @@ Real-time CNN emotion recognition using PyTorch + OpenCV (FER2013).
 - Oracle Generative AI Professional  
 - IBM Full Stack Software Developer  
 - Microsoft Azure Fundamentals (AZ-900)
-
----
-
-# 🌍 Languages
-**English (Fluent)** · **French (Fluent)** · **Arabic (Fluent)** · **Spanish (Intermediate)**
 
 ---
 
