@@ -2,7 +2,7 @@
 
 <b>Computer Science student @ Université de Montréal</b> — Full-Stack Developer & AI Engineer  
 <br>Building multi-agent systems, RAG pipelines, and production-grade apps.</br>
-Passionate about hackathons — PolyFinances (Finalist), Santé Numérique (3rd Place), Mil’HaQ Quantum AI.
+Passionate about hackathons — PolyFinances (Finalist), Santé Numérique (3rd Place), Mil’HaQ Quantum AI, Code ML.
 
 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyan-oumlil) 
