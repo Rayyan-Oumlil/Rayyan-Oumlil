@@ -30,13 +30,6 @@ I build AI governance tooling and market/risk software. Graduating from Universi
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,react,java,spring,go,postgres,docker,aws,github,githubactions&perline=12" alt="Python, C++, TypeScript, React, Java, Spring, Go, PostgreSQL, Docker, AWS, GitHub, GitHub Actions" />
 </p>
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rayyan-Oumlil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Oumlil&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
-
 ## Contact
 
 <a href="https://www.linkedin.com/in/rayyan-oumlil/"><img src="https://img.shields.io/badge/LinkedIn-Rayyan%20Oumlil-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
