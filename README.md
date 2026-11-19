@@ -12,9 +12,9 @@ I build AI governance tooling and market/risk software. Graduating from Universi
 |---|---|---|
 | 🛡️ | [**OpenProxyAI**](https://github.com/Rayyan-Oumlil/OpenProxyAI) | Open-source LLM gateway for organizations that must prove what their AI did: data-class routing, policy, budgets, audit trail, MCP tool control. `Python` `FastAPI` `React` |
 | 📈 | [**RiskEngine-CPP**](https://github.com/Rayyan-Oumlil/RiskEngine-CPP) | C++20 options pricing and risk engine: Black-Scholes, trees, Monte Carlo, Heston/Merton, VaR/ES, cross-checked in a reproducible 15-figure report. `C++20` |
-| ⏱️ | [**Tempo**](https://github.com/Rayyan-Oumlil/Tempo) | Intraday and swing trading on an Interactive Brokers paper account, with a watchdog, verified backups and a pre-registered forward test. `Python` |
 | 💹 | [**Next Smart Finance Hub**](https://github.com/Rayyan-Oumlil/Datathon2026-Next-Smart-Finance-Hub) | PolyFinances Datathon 2026 team project: portfolio X-ray, live agent streaming, bilingual voice assistant. `TypeScript` |
 | ⚖️ | [**ReguAI**](https://github.com/Rayyan-Oumlil/ReguAI) | Regulatory intelligence assistant (AWS Bedrock + LegalBERT) assessing how regulations affect S&P 500 portfolios. |
+| 🤖 | [**CustoFlow**](https://github.com/Rayyan-Oumlil/CustoFlow) | Multi-agent customer support system built with Google ADK and Gemini 2.5 Flash Lite; Kaggle capstone, automates 80%+ of queries in under 10 seconds. `Python` |
 | 🏗️ | [**MaVille**](https://github.com/Rayyan-Oumlil/MaVille-ift2255) | Roadwork management platform. `Spring Boot` `Next.js` `PostgreSQL` |
 
 ## Recognition
